@@ -17,4 +17,15 @@ We will build 3 projects
 2. Blog - Wordpress
 3. eCommerce - Wordpress
 
+### 3. Introduction to UX
+
+- [Book, The Elements of User Experience - Jesse James Garrett](https://www.amazon.com.au/Elements-User-Experience-User-Centered-Design-ebook/dp/B004JLMDOC)
+- The Bible of UX
+
+  5.(Concrete) Surface: Visual UI Design
+  4.Skeleton: Navigation + Layout
+  3.Structure: Information Architecture
+  2.Scope: Requirements/Specs
+  1.(Abstract) Strategy: User Needs/Business Goals
+
 </details>
